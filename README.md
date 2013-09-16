@@ -1,4 +1,4 @@
 WeiboByAPI
 ==========
 
-crawl weibo by api
+crawl weibo by weibo api
